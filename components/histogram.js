@@ -3,7 +3,7 @@ import { Bar } from '@visx/shape';
 import { Group } from '@visx/group';
 import { scaleBand, scaleLinear } from '@visx/scale';
 import { GradientTealBlue } from '@visx/gradient';
-import {Tooltip, Typography} from "@mui/material";
+import { Typography } from "@mui/material";
 
 const Histogram = ({postsNoPerMonth}) => {
 
